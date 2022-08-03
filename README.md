@@ -6,3 +6,7 @@ Test Repository
 * gia bullet list
 
 (LinkedIn)[https://www.linkedin.com/feed/]
+
+![fotografia](https://miro.medium.com/max/256/1*b920ibs5mRD89HvuTSeKCQ.jpeg)
+
+[LinkedIn](https://www.linkedin.com/feed/)
